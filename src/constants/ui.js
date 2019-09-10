@@ -1,0 +1,11 @@
+export const SHOW_LOADING = 'GLOBAL_SHOW_LOADING';
+export const HIDE_LOADING = 'GLOBAL_HIDE_LOADING';
+
+export const SHOW_DASHBOARD = 'SHOW_DASHBOARD';
+export const HIDE_DASHBOARD = 'HIDE_DASHBOARD';
+
+export const SHOW_SIGNIN = 'SHOW_SIGNIN';
+export const HIDE_SIGNIN = 'HIDE_SIGNIN';
+
+export const SHOW_SIGNUP = 'SHOW_SIGNUP';
+export const HIDE_SIGNUP = 'HIDE_SIGNUP';
